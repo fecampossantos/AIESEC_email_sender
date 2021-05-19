@@ -1,5 +1,10 @@
 #-*- coding:utf-8 -*-
 
+## created by Felipe Santos
+## Feel free to use! If you have any doubts, contact me at fe.campossantos@gmail.com
+## github.com/felipecampossantos
+## linkedin.com/in/felipecampossantos/
+
 import properties
 
 import csv
